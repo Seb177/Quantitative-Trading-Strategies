@@ -1,7 +1,7 @@
 # Quantitative-Trading-Strategies
 Miscellaneous files to demonstrate my work.
 
-I am also running crypto market making bots
+I am also running crypto market making bots.
 The private repository houses my collection of advanced market making bots designed for efficient trading in the dynamic world of cryptocurrencies. The bots are equipped with powerful functionalities to optimize trading strategies and capitalize on profitable opportunities.
 
 **Functionality**:
