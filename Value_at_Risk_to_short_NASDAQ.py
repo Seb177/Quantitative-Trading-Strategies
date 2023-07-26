@@ -31,21 +31,3 @@ var = VaR(returns, 0.05)
 # print VaR
 
 print("VaR: ", var)
-
-# calculate capital allocation for shorting
-
-def capital_allocation(returns, confidence_level):
-    # sort returns
-    returns = np.sort(returns)
-    # calculate VaR
-    var = returns[int(np.ceil(len(returns) * (1 - confidence_level))) - 1]
-    # calculate capital allocation
-    capital_allocation = 1 / var
-    return capital_allocation
-
-capital_allocation = capital_allocation(returns, 0.01)
-
-# print capital allocation
-
-print("Capital allocation: ", capital_allocation)
-
