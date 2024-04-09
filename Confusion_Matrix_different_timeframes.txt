@@ -1,0 +1,69 @@
+***_15MIN.csv
+              precision    recall  f1-score   support
+
+           0       0.53      0.48      0.50      1905
+           1       0.55      0.60      0.57      2042
+
+    accuracy                           0.54      3947
+   macro avg       0.54      0.54      0.54      3947
+weighted avg       0.54      0.54      0.54      3947
+
+[[ 910  995]
+ [ 819 1223]]
+***USDT_4h.csv
+              precision    recall  f1-score   support
+
+           0       0.53      0.48      0.50      2520
+           1       0.56      0.62      0.59      2734
+
+    accuracy                           0.55      5254
+   macro avg       0.55      0.55      0.55      5254
+weighted avg       0.55      0.55      0.55      5254
+
+[[1200 1320]
+ [1050 1684]]
+***.csv
+              precision    recall  f1-score   support
+
+           0       0.53      0.49      0.51      5860
+           1       0.56      0.60      0.57      6288
+
+    accuracy                           0.54     12148
+   macro avg       0.54      0.54      0.54     12148
+weighted avg       0.54      0.54      0.54     12148
+
+[[2855 3005]
+ [2540 3748]]
+***_1h.csv
+              precision    recall  f1-score   support
+
+           0       0.53      0.47      0.50      8936
+           1       0.54      0.60      0.57      9374
+
+    accuracy                           0.54     18310
+   macro avg       0.53      0.53      0.53     18310
+weighted avg       0.54      0.54      0.53     18310
+
+[[4201 4735]
+ [3762 5612]]
+***_5MIN.csv
+              precision    recall  f1-score   support
+
+           0       0.58      0.60      0.59     50712
+           1       0.49      0.47      0.48     41617
+
+    accuracy                           0.54     92329
+   macro avg       0.54      0.54      0.54     92329
+weighted avg       0.54      0.54      0.54     92329
+
+[[30666 20046]
+ [22026 19591]]
+****_15MIN.csv
+              precision    recall  f1-score   support
+
+           0       0.58      0.61      0.59     56397
+           1       0.50      0.46      0.48     47559
+
+    accuracy                           0.54    103956
+   macro avg       0.54      0.54      0.54    103956
+weighted avg       0.54      0.54      0.54    103956
